@@ -1,11 +1,11 @@
 # Практична робота "Масиви, вирази, керування виконанням програми"
 ## Завдання: 2. Заповнити масив довільного розміру числами в порядку зростання, починаючи з центру масиву, наприклад, ````[5,4,3,2,1,0,1,2,3,4,5]````.
 ## Exercise: 
-<img src="https://github.com/ppc-ntu-khpi/34-arrays-SmkPln/blob/master/prtsc.1.png" width="99%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-arrays-SmkPln/blob/master/prtsc.1.png" width="99%"/>.
 ## ExerciseDodatok:
-<img src="https://github.com/ppc-ntu-khpi/34-arrays-SmkPln/blob/master/prtsc.2.png" width="99%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-arrays-SmkPln/blob/master/prtsc.2.png" width="99%"/>.
 ## TestResult:
-<img src="https://github.com/ppc-ntu-khpi/34-arrays-SmkPln/blob/master/prtsc.3.png" width="99%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-arrays-SmkPln/blob/master/prtsc.3.png" width="99%"/>.
 
 
 
