@@ -7,6 +7,7 @@
 ## TestResult:
 <img src="https://github.com/ppc-ntu-khpi/34-arrays-SmkPln/blob/master/prtsc.3.png" width="99%"/>.
 
+### Матеріал для практичної взяв з [посилання](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaStart/tree/master/src/main/java/com/yurii/salimov/lesson04/task10).
 
 
 ----
